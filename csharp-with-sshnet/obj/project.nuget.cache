@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLDWYSswIFEa9c995WOyozbB5e6XMuyWqcVOX7ClrK7ShoNy6JnB1xjncy5Da99aInNE4R93lENNfXgXf9tfBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliha\\source\\repos\\csharp-with-sshnet\\csharp-with-sshnet\\csharp-with-sshnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliha\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\aliha\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
