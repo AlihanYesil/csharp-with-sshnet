@@ -15,7 +15,7 @@ c#-consoleApp with - Ssh.Net library usage
   
 5- İşlemler tamamlandıktan sonra, sunucudan çıkış yapmak için Disconnect yöntemini kullanabilirsiniz.
 
-#NOT
+# Note
  CreateCommand ile oluşturulan komutlar bir değişkene atanabilir ve sonuçları bu değişkende depolanır. Sonuçları konsola yazdırmak için Console.WriteLine kullanılalabilir.
 
 Bu işlemler SSH.NET kütüphanesini kullanarak C# dilinde gerçekleştirilmiştir. bununla birlikte,  bir sunucu üzerinde SSH ile haberleşme işlemini gerçekleştirebilirsiniz.
